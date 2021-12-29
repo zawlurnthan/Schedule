@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.ColumnConstraints?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.RowConstraints?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="538.0" prefWidth="402.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ModifyCustomerController">
+   <children>
+      <Label layoutX="93.0" layoutY="62.0" text="Modify Customer" textFill="#240bc6">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <GridPane layoutX="50.0" layoutY="119.0" prefHeight="301.0" prefWidth="269.0" vgap="10.0">
+        <columnConstraints>
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="120.0" minWidth="10.0" prefWidth="92.0" />
+          <ColumnConstraints hgrow="SOMETIMES" maxWidth="173.0" minWidth="10.0" prefWidth="159.0" />
+        </columnConstraints>
+        <rowConstraints>
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+          <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+            <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES" />
+        </rowConstraints>
+         <children>
+            <Label text="User ID">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </Label>
+            <Label text="Name" GridPane.rowIndex="1">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </Label>
+            <Label text="Address" GridPane.rowIndex="2">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </Label>
+            <Label text="Postal Code" GridPane.rowIndex="3">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </Label>
+            <Label text="Phone" GridPane.rowIndex="4">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </Label>
+            <Label text="Division" GridPane.rowIndex="5">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </Label>
+            <Label text="Country" GridPane.rowIndex="6">
+               <font>
+                  <Font name="System Bold" size="14.0" />
+               </font>
+            </Label>
+            <TextField fx:id="mdfUserIDTf" disable="true" prefHeight="50.0" GridPane.columnIndex="1" />
+            <TextField fx:id="mdfNameTf" prefHeight="50.0" GridPane.columnIndex="1" GridPane.rowIndex="1" />
+            <TextField fx:id="mdfAddressTf" prefHeight="50.0" GridPane.columnIndex="1" GridPane.rowIndex="2" />
+            <TextField fx:id="mdfZidCodeTf" prefHeight="50.0" GridPane.columnIndex="1" GridPane.rowIndex="3" />
+            <TextField fx:id="mdfPhoneTf" prefHeight="50.0" GridPane.columnIndex="1" GridPane.rowIndex="4" />
+            <ComboBox fx:id="mdfDivisionCbb" prefHeight="50.0" prefWidth="175.0" GridPane.columnIndex="1" GridPane.rowIndex="5" />
+            <ComboBox fx:id="mdfCountryCbb" onAction="#onCountryCbbHandle" prefHeight="50.0" prefWidth="175.0" GridPane.columnIndex="1" GridPane.rowIndex="6" />
+         </children>
+      </GridPane>
+      <Button layoutX="47.0" layoutY="453.0" mnemonicParsing="false" onAction="#onSaveHandle" prefHeight="50.0" prefWidth="100.0" text="Save" />
+      <Button layoutX="212.0" layoutY="453.0" mnemonicParsing="false" onAction="#onBackHandle" prefHeight="50.0" prefWidth="100.0" text="Back" />
+      <Label fx:id="warnningLabel" layoutX="111.0" layoutY="31.0" textFill="#dd1e1e">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

@@ -1,0 +1,276 @@
+Nov 20, 2020  2:38 AM Failure
+Admin Nov 20, 2020  2:39 AM Success
+test Nov/20/2020  2:44 AM Success
+admin  Nov/20/2020  2:48 AM  Success
+Admin  Nov/20/2020  1:24 PM  Success
+test  Nov/20/2020  1:27 PM  Success
+test  Nov/20/2020  1:38 PM  Success
+test  Nov/20/2020  1:45 PM  Success
+admin  Nov/20/2020  1:47 PM  Success
+test  Nov/20/2020  1:50 PM  Success
+admin  Nov/20/2020  1:51 PM  Success
+test  Nov/20/2020  1:59 PM  Success
+test  Nov/20/2020  2:01 PM  Success
+test  Nov/20/2020  2:10 PM  Success
+test  Nov/20/2020  2:11 PM  Success
+admin  Nov/20/2020  2:12 PM  Success
+test  Nov/20/2020  2:13 PM  Success
+admin  Nov/20/2020  2:17 PM  Success
+test  Nov/20/2020  2:19 PM  Success
+admin  Nov/20/2020  2:20 PM  Success
+test  Nov/20/2020  2:21 PM  Success
+test  Nov/20/2020  2:24 PM  Success
+test  Nov/20/2020  2:26 PM  Success
+test  Nov/20/2020  2:30 PM  Success
+admin  Nov/20/2020  2:31 PM  Success
+test  Nov/20/2020  2:38 PM  Success
+test  Nov/20/2020  2:44 PM  Success
+admin  Nov/20/2020  2:45 PM  Success
+test  Nov/20/2020  2:47 PM  Success
+test  Nov/20/2020  2:48 PM  Success
+admin  Nov/20/2020  2:50 PM  Success
+test  Nov/20/2020  2:51 PM  Success
+test  Nov/20/2020  2:52 PM  Success
+test  Nov/20/2020  2:54 PM  Success
+test  Nov/20/2020  2:55 PM  Success
+test  Nov/20/2020  2:56 PM  Success
+test  Nov/20/2020  2:57 PM  Success
+test  Nov/20/2020  3:28 PM  Success
+test  Nov/20/2020  3:37 PM  Success
+test  Nov/20/2020  3:40 PM  Success
+test  Nov/20/2020  3:41 PM  Success
+test  Nov/20/2020  3:41 PM  Success
+test  Nov/20/2020  3:43 PM  Success
+test  Nov/20/2020  3:46 PM  Success
+admin  Nov/20/2020  3:48 PM  Success
+admin  Nov/20/2020  3:48 PM  Success
+test  Nov/20/2020  3:49 PM  Success
+test  Nov/20/2020  3:50 PM  Success
+test  Nov/20/2020  3:51 PM  Success
+test  Nov/20/2020  4:04 PM  Success
+test  Nov/20/2020  4:06 PM  Success
+admin  Nov/20/2020  4:08 PM  Success
+admin  Nov/20/2020  4:09 PM  Success
+test  Nov/20/2020  4:10 PM  Success
+test  Nov/20/2020  11:05 PM  Success
+Admin  Nov/20/2020  11:09 PM CST  Success
+test  Nov/21/2020  12:11 AM CST  Success
+test  Nov/21/2020  12:36 AM CST  Success
+admin  Nov/21/2020  12:45 AM CST  Success
+test  Nov/21/2020  12:53 AM CST  Success
+test  Nov/21/2020  12:55 AM CST  Success
+test  Nov/21/2020  1:02 AM CST  Success
+test  Nov/21/2020  1:05 AM CST  Success
+test  Nov/21/2020  1:11 AM CST  Success
+admin  Nov/21/2020  1:16 AM CST  Success
+test  Nov/21/2020  1:23 AM CST  Success
+admin  Nov/21/2020  1:24 AM CST  Success
+admin  Nov/21/2020  1:27 AM CST  Success
+test  Nov/21/2020  1:47 AM CST  Success
+User test Successfully logged in at Nov/21/2020  2:17 AM CST
+User Admin gave invalid login at Nov/21/2020  2:18 AM CST
+User SomeOne else gave invalid login at Nov/21/2020  2:19 AM CST
+User test Successfully logged in at Nov/21/2020  11:46 PM CST
+User test Successfully logged in at Nov/22/2020  6:43 PM CST
+User test Successfully logged in at Nov/22/2020  7:09 PM CST
+User test Successfully logged in at Nov/22/2020  7:21 PM CST
+User test Successfully logged in at Nov/22/2020  7:24 PM CST
+User test Successfully logged in at Nov/22/2020  7:31 PM CST
+User admin Successfully logged in at Nov/22/2020  7:49 PM CST
+User admin Successfully logged in at Nov/22/2020  8:08 PM CST
+User test Successfully logged in at Nov/22/2020  10:05 PM CST
+User admin Successfully logged in at Nov/22/2020  10:23 PM CST
+User test Successfully logged in at Nov/22/2020  10:41 PM CST
+User test Successfully logged in at Nov/22/2020  11:08 PM CST
+User test Successfully logged in at Nov/22/2020  11:10 PM CST
+User test Successfully logged in at Nov/22/2020  11:14 PM CST
+User TEST Successfully logged in at Nov/22/2020  11:52 PM CST
+User TEST Successfully logged in at Nov/22/2020  11:54 PM CST
+User test Successfully logged in at Nov/22/2020  11:58 PM CST
+User test Successfully logged in at Nov/23/2020  12:01 AM CST
+User test Successfully logged in at Nov/23/2020  12:02 AM CST
+User admin Successfully logged in at Nov/23/2020  12:07 AM CST
+User test Successfully logged in at Nov/23/2020  12:11 AM CST
+User test Successfully logged in at Nov/23/2020  12:32 AM CST
+User admin Successfully logged in at Nov/23/2020  12:51 AM CST
+User test Successfully logged in at Nov/23/2020  12:54 AM CST
+User test Successfully logged in at Nov/23/2020  12:56 AM CST
+User test Successfully logged in at Nov/23/2020  1:17 AM CST
+User admin Successfully logged in at Nov/23/2020  1:23 AM CST
+User admin Successfully logged in at Nov/23/2020  1:42 AM CST
+User test Successfully logged in at Nov/23/2020  1:46 AM CST
+User test Successfully logged in at Nov/23/2020  2:07 AM CST
+User admin Successfully logged in at Nov/23/2020  2:11 AM CST
+User test Successfully logged in at Nov/23/2020  2:24 AM CST
+User test Successfully logged in at Nov/23/2020  3:48 AM CST
+User test Successfully logged in at Nov/23/2020  3:58 AM CST
+User admin Successfully logged in at Nov/23/2020  4:13 AM CST
+User test Successfully logged in at Nov/23/2020  4:24 AM CST
+User test Successfully logged in at Nov/23/2020  4:25 AM CST
+User test Successfully logged in at Nov/23/2020  4:27 AM CST
+User test Successfully logged in at Nov/23/2020  4:32 AM CST
+User test Successfully logged in at Nov/23/2020  4:44 AM CST
+User test Successfully logged in at Nov/23/2020  4:53 AM CST
+User test Successfully logged in at Nov/23/2020  4:56 AM CST
+User admin Successfully logged in at Nov/23/2020  4:58 AM CST
+User test Successfully logged in at Nov/23/2020  5:04 AM CST
+User test Successfully logged in at Nov/23/2020  5:41 AM CST
+User test Successfully logged in at Nov/23/2020  6:00 AM CST
+User test Successfully logged in at Nov/23/2020  6:02 AM CST
+User test Successfully logged in at Nov/23/2020  6:06 AM CST
+User test Successfully logged in at Nov/23/2020  6:20 AM CST
+User test Successfully logged in at Nov/23/2020  6:23 AM CST
+User TEST Successfully logged in at Nov/23/2020  6:31 AM CST
+User test Successfully logged in at Nov/23/2020  6:33 AM CST
+User test Successfully logged in at Nov/23/2020  6:35 AM CST
+User test Successfully logged in at Nov/23/2020  6:43 AM CST
+User test Successfully logged in at Nov/23/2020  6:55 AM CST
+User test Successfully logged in at Nov/23/2020  6:57 AM CST
+User test Successfully logged in at Nov/23/2020  7:09 AM CST
+User test Successfully logged in at Nov/23/2020  7:15 AM CST
+User test Successfully logged in at Nov/23/2020  7:34 AM CST
+User test Successfully logged in at Nov/23/2020  7:48 AM CST
+User test Successfully logged in at Nov/23/2020  7:52 AM CST
+User test Successfully logged in at Nov/23/2020  7:53 AM CST
+User test Successfully logged in at Nov/23/2020  7:54 AM CST
+User test Successfully logged in at Nov/23/2020  7:55 AM CST
+User test Successfully logged in at Nov/23/2020  7:56 AM CST
+User test Successfully logged in at Nov/23/2020  7:57 AM CST
+User test Successfully logged in at Nov/23/2020  7:57 AM CST
+User admin Successfully logged in at Nov/23/2020  7:58 AM CST
+User test Successfully logged in at Nov/23/2020  8:00 AM CST
+User test Successfully logged in at Nov/23/2020  8:02 AM CST
+User admin Successfully logged in at Nov/23/2020  8:11 AM CST
+User admin Successfully logged in at Nov/23/2020  8:20 AM CST
+User test Successfully logged in at Nov/23/2020  8:26 AM CST
+User test Successfully logged in at Nov/23/2020  8:29 AM CST
+User admin Successfully logged in at Nov/23/2020  8:46 AM CST
+User test Successfully logged in at Nov/23/2020  8:53 AM CST
+User test Successfully logged in at Nov/23/2020  9:05 AM CST
+User admin Successfully logged in at Nov/23/2020  6:15 PM CST
+User test Successfully logged in at Nov/23/2020  6:33 PM CST
+User test gave invalid login at Nov/23/2020  6:41 PM CST
+User test Successfully logged in at Nov/23/2020  6:41 PM CST
+User test Successfully logged in at Nov/23/2020  6:45 PM CST
+User Test gave invalid login at nov./23/2020  10:17 p. m. CST
+User Test Successfully logged in at nov./23/2020  10:19 p. m. CST
+User test Successfully logged in at Nov/24/2020  7:09 PM CST
+User test Successfully logged in at Nov/24/2020  9:08 PM CST
+User test Successfully logged in at Nov/24/2020  9:43 PM CST
+User Admin Successfully logged in at Nov/24/2020  10:06 PM CST
+User test Successfully logged in at Nov/24/2020  10:28 PM CST
+User  gave invalid login at Nov/24/2020  10:30 PM CST
+User test Successfully logged in at Nov/24/2020  10:30 PM CST
+User admin Successfully logged in at Nov/24/2020  10:31 PM CST
+User test Successfully logged in at Nov/24/2020  10:45 PM CST
+User test Successfully logged in at Nov/24/2020  10:48 PM CST
+User admin Successfully logged in at Nov/24/2020  10:49 PM CST
+User test Successfully logged in at Nov/24/2020  10:50 PM CST
+User test Successfully logged in at Nov/24/2020  10:51 PM CST
+User test Successfully logged in at Nov/24/2020  10:54 PM CST
+User test Successfully logged in at Nov/24/2020  10:58 PM CST
+User test Successfully logged in at Nov/24/2020  11:11 PM CST
+User admin gave invalid login at Nov/24/2020  11:20 PM CST
+User admin Successfully logged in at Nov/24/2020  11:21 PM CST
+User test Successfully logged in at Nov/26/2020  5:05 PM CST
+User test Successfully logged in at Nov/26/2020  5:50 PM CST
+User test Successfully logged in at Nov/26/2020  5:57 PM CST
+User admin Successfully logged in at Nov/26/2020  6:01 PM CST
+User admin Successfully logged in at Nov/26/2020  6:05 PM CST
+User admin Successfully logged in at Nov/26/2020  6:07 PM CST
+User admin Successfully logged in at Nov/26/2020  6:09 PM CST
+User  gave invalid login at Nov/26/2020  6:14 PM CST
+User test Successfully logged in at Nov/26/2020  6:14 PM CST
+User test Successfully logged in at Nov/26/2020  6:37 PM CST
+User test Successfully logged in at Nov/26/2020  6:42 PM CST
+User test Successfully logged in at Nov/26/2020  6:44 PM CST
+User test Successfully logged in at Nov/26/2020  6:53 PM CST
+User test gave invalid login at Nov/26/2020  7:04 PM CST
+User test Successfully logged in at Nov/26/2020  7:04 PM CST
+User test Successfully logged in at Nov/26/2020  7:07 PM CST
+User test Successfully logged in at Nov/26/2020  7:14 PM CST
+User  gave invalid login at Nov/26/2020  7:25 PM CST
+User test Successfully logged in at Nov/26/2020  7:25 PM CST
+User test Successfully logged in at Nov/26/2020  7:28 PM CST
+User test Successfully logged in at Nov/28/2020  10:03 AM CST
+User test Successfully logged in at Nov/28/2020  10:15 AM CST
+User test Successfully logged in at Nov/28/2020  10:29 AM CST
+User test Successfully logged in at Nov/28/2020  11:45 AM CST
+User admin gave invalid login at Nov/28/2020  1:44 PM CST
+User admin Successfully logged in at Nov/28/2020  1:45 PM CST
+User test Successfully logged in at Nov/28/2020  2:02 PM CST
+User test Successfully logged in at Nov/28/2020  2:06 PM CST
+User test Successfully logged in at Nov/28/2020  2:13 PM CST
+User TEST Successfully logged in at Nov/28/2020  3:09 PM CST
+User test Successfully logged in at Nov/28/2020  4:05 PM CST
+User test Successfully logged in at Nov/28/2020  4:32 PM CST
+User  gave invalid login at Nov/28/2020  4:48 PM CST
+User admin Successfully logged in at Nov/28/2020  4:48 PM CST
+User test Successfully logged in at Nov/28/2020  5:29 PM CST
+User admin Successfully logged in at Nov/28/2020  5:35 PM CST
+User test Successfully logged in at Nov/28/2020  6:04 PM CST
+User admin Successfully logged in at Nov/28/2020  6:33 PM CST
+User test Successfully logged in at Nov/28/2020  6:58 PM CST
+User test Successfully logged in at Nov/28/2020  9:22 PM CST
+User test Successfully logged in at Nov/30/2020  6:46 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:48 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:50 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:51 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:45 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:48 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:50 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:53 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:46 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:55 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:57 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:46 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:48 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:46 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:48 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:50 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:58 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:45 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:47 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:48 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:46 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:47 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:47 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:45 AM GMT-06:00
+User test Successfully logged in at Nov/29/2020  4:41 AM GMT-06:00
+User admin Successfully logged in at Nov/29/2020  4:43 AM GMT-06:00
+User test Successfully logged in at Nov/29/2020  4:53 AM GMT-06:00
+User test Successfully logged in at Nov/29/2020  4:54 AM GMT-06:00
+User admin Successfully logged in at Nov/29/2020  5:01 AM GMT-06:00
+User test Successfully logged in at Nov/29/2020  5:02 AM GMT-06:00
+User test Successfully logged in at Nov/29/2020  5:03 AM GMT-06:00
+User test Successfully logged in at Nov/29/2020  5:18 AM GMT-06:00
+User test Successfully logged in at Nov/29/2020  5:23 AM GMT-06:00
+User test Successfully logged in at Nov/29/2020  5:25 AM GMT-06:00
+User test Successfully logged in at Nov/29/2020  5:31 AM GMT-06:00
+User admin Successfully logged in at Nov/29/2020  5:31 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:46 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:46 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:48 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:50 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:52 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:52 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:54 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:45 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:49 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:49 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:50 AM GMT-06:00
+User admin Successfully logged in at Nov/30/2020  6:55 AM GMT-06:00
+User test Successfully logged in at Nov/29/2020  4:39 PM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:45 PM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:46 PM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:48 PM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:49 PM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:49 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:45 AM GMT-06:00
+User admin Successfully logged in at Nov/30/2020  6:53 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:56 AM GMT-06:00
+User test Successfully logged in at Nov/29/2020  5:07 PM GMT-06:00
+User test Successfully logged in at Nov/29/2020  5:19 PM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:45 AM GMT-06:00
+User test Successfully logged in at Nov/30/2020  6:56 AM GMT-06:00
+User test Successfully logged in at Nov/29/2020  5:42 PM GMT-06:00
