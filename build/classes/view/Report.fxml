@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ComboBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="472.0" prefWidth="674.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.ReportController">
+   <children>
+      <ComboBox fx:id="customerCbb" layoutX="47.0" layoutY="89.0" onAction="#onCustomerCbbHandle" prefWidth="150.0" promptText="Customer" />
+      <ComboBox fx:id="typeCbb" layoutX="47.0" layoutY="166.0" onAction="#onTypeCbbHandle" prefWidth="150.0" promptText="Type" />
+      <ComboBox fx:id="monthCbb" layoutX="209.0" layoutY="166.0" onAction="#onMonthCbbHandle" prefWidth="150.0" promptText="Month" />
+      <TableView fx:id="reportTableView" layoutX="46.0" layoutY="208.0" prefHeight="235.0" prefWidth="582.0">
+        <columns>
+            <TableColumn fx:id="appointmentIDCol" prefWidth="55.0" text="Appointment ID" />
+          <TableColumn fx:id="titleCol" prefWidth="95.0" text="Title" />
+          <TableColumn fx:id="typeCol" prefWidth="85.0" text="Type" />
+            <TableColumn fx:id="description" prefWidth="89.0" text="Description" />
+            <TableColumn fx:id="startCol" prefWidth="112.0" text="Start" />
+            <TableColumn fx:id="endCol" prefWidth="97.0" text="End" />
+            <TableColumn fx:id="customerIDCol" prefWidth="48.0" text="Customer ID" />
+        </columns>
+      </TableView>
+      <ComboBox fx:id="contactCbb" layoutX="47.0" layoutY="126.0" onAction="#OnContactCbbHandle" prefWidth="150.0" promptText="Contact" />
+      <Button layoutX="528.0" layoutY="139.0" mnemonicParsing="false" onAction="#onHomeHandle" prefHeight="50.0" prefWidth="100.0" text="Home" />
+      <Label layoutX="47.0" layoutY="57.0" text="Select by">
+         <font>
+            <Font size="14.0" />
+         </font>
+      </Label>
+      <Label layoutX="304.0" layoutY="24.0" text="Reports" textFill="#162dda">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

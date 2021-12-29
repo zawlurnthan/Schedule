@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.DatePicker?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.ToggleGroup?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane id="AnchorPane" prefHeight="580.0" prefWidth="948.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="controller.AppointmentController">
+   <children>
+      <Label layoutX="35.0" layoutY="23.0" text="Appointment Schedule" textFill="#1b31d7">
+         <font>
+            <Font size="24.0" />
+         </font>
+      </Label>
+      <RadioButton fx:id="weekRBtn" layoutX="399.0" layoutY="40.0" mnemonicParsing="false" onAction="#onWeekSelectHandle" text="Select by Week">
+         <toggleGroup>
+            <ToggleGroup fx:id="selectGroup" />
+         </toggleGroup>
+      </RadioButton>
+      <RadioButton fx:id="monthRBtn" layoutX="561.0" layoutY="40.0" mnemonicParsing="false" onAction="#onMonthSelectHandle" text="Select by Month" toggleGroup="$selectGroup" />
+      <DatePicker fx:id="datePicker" layoutX="724.0" layoutY="36.0" onAction="#onDatePickerHandle" />
+      <TableView fx:id="appointmentTableView" layoutX="35.0" layoutY="87.0" prefHeight="403.0" prefWidth="865.0">
+        <columns>
+            <TableColumn fx:id="apIDCol" prefWidth="35.0" text="ID" />
+            <TableColumn fx:id="titleCol" prefWidth="103.0" text="Title" />
+            <TableColumn fx:id="descriptionCol" minWidth="0.0" prefWidth="100.0" text="Description" />
+            <TableColumn fx:id="locationCol" prefWidth="103.0" text="Location" />
+            <TableColumn fx:id="contactCol" prefWidth="103.0" text="Contact" />
+            <TableColumn fx:id="typeCol" prefWidth="100.0" text="Type" />
+          <TableColumn fx:id="startCol" prefWidth="111.0" text="Start" />
+            <TableColumn fx:id="endCol" prefWidth="111.0" text="End" />
+          <TableColumn fx:id="customerCol" prefWidth="103.0" text="Customer" />
+        </columns>
+      </TableView>
+      <HBox layoutX="111.0" layoutY="508.0" prefHeight="50.0" prefWidth="700.0" spacing="100.0">
+         <children>
+            <Button mnemonicParsing="false" onAction="#onAddHandle" prefHeight="50.0" prefWidth="100.0" text="Add" />
+            <Button mnemonicParsing="false" onAction="#onModifyHandle" prefHeight="50.0" prefWidth="100.0" text="Modify" />
+            <Button mnemonicParsing="false" onAction="#onDeleteHandle" prefHeight="50.0" prefWidth="100.0" text="Delete" />
+            <Button mnemonicParsing="false" onAction="#onHomeHandle" prefHeight="50.0" prefWidth="100.0" text="Home" />
+         </children>
+      </HBox>
+   </children>
+</AnchorPane>
